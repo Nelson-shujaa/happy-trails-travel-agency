@@ -1,0 +1,22 @@
+.header{
+  color: #f7325e;
+}
+p{
+  color: #7dc410;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 30px;
+}
+.popular {
+  font-size: 40px;
+  color: blue;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
